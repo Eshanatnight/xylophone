@@ -1,3 +1,2 @@
 # Xylophone 🎹
-
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/xylophone-flutter.png)
+Makes a sound when you click on the tabs.
